@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Thomas Starzynski <thommy-star@hotmail.ch> (dcts.github.io/CV)",
-  "license": "mit"
+  "license": "mit",
+  "dependencies": {
+    "conseiljs": "^0.3.7"
+  }
 }

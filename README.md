@@ -19,3 +19,8 @@ This repo was created during the Tezos Workshop 22.02.2020 @ Berlin. Some resour
 # disable warning if not on MAIN NET
 export TEZOS_CLIENT_UNSAFE_DISABLE_DISCLAIMER=yes
 ```
+
+### NODE
+```
+12.14.1
+```
