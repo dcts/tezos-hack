@@ -1,3 +1,7 @@
+# CUSTOM GITIGNORE
+faucet.json
+
+# DONE BY INITIALIZER SRIPT
 # Logs
 logs
 *.log
