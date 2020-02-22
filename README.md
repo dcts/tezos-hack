@@ -6,7 +6,7 @@ This repo was created during the Tezos Workshop 22.02.2020 @ Berlin. Some resour
 ### Tools build by cryptonomic
 - **[Minimax](https://mininax.cryptonomic.tech/mainnet/blocks/BM8NvYQ3HdBAwqviET7DYap4ZAhcRZ5YebdWt9vbAJrJcvVyLpj)**: retro bock explorer.
 - **[Arronax](https://github.com/Cryptonomic/Arronax)**: Data Analytics for Tezos Blockchain.
-- **[ConseilJS]**(https://github.com/Cryptonomic/ConseilJS): connect to tezos blockchain through JS client.
+- **[ConseilJS](https://github.com/Cryptonomic/ConseilJS)**: connect to tezos blockchain through JS client.
 
 ### Why Tezos?
 - Difference to Ethereum:
