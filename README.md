@@ -18,9 +18,14 @@ This repo was created during the Tezos Workshop 22.02.2020 @ Berlin. Some resour
 ```bash
 # disable warning if not on MAIN NET
 export TEZOS_CLIENT_UNSAFE_DISABLE_DISCLAIMER=yes
+
+# use NPM version v12.14.1
+nvm ls-remote # shows all availible node installations
+nvm ls        # show all installed node versions
+nvm install v12.14.1 # install version 12.14.1 (recommended by Mike, runs stable)
 ```
 
 ### NODE
 ```
-12.14.1
+
 ```
