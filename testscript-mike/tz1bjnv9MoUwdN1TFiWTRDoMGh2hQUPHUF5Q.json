@@ -1,0 +1,24 @@
+{
+  "mnemonic": [
+    "combine",
+    "leaf",
+    "gesture",
+    "frozen",
+    "subject",
+    "atom",
+    "approve",
+    "element",
+    "spend",
+    "dwarf",
+    "clever",
+    "match",
+    "weasel",
+    "cream",
+    "dynamic"
+  ],
+  "secret": "2fce37628a5058f155633dd41fcfbeef98550618",
+  "amount": "178899441",
+  "pkh": "tz1bjnv9MoUwdN1TFiWTRDoMGh2hQUPHUF5Q",
+  "password": "qK6IdaEu8s",
+  "email": "qakwfycd.pygjofuj@tezos.example.org"
+}
